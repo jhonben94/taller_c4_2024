@@ -1,5 +1,5 @@
 # Tareas
-[Tarea 1](tareas1.md)
+[Tarea 1](tarea1.md)
 
 # taller1
 
