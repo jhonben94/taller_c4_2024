@@ -1,4 +1,4 @@
-package main.java.py.edu.ucom.services.api;
+package py.edu.ucom.services.api;
 
 import jakarta.enterprise.context.ApplicationScoped;
 

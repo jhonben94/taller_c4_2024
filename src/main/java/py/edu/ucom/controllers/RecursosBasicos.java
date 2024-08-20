@@ -1,4 +1,4 @@
-package main.java.py.edu.ucom.controllers;
+package py.edu.ucom.controllers;
 
 import java.util.HashMap;
 
