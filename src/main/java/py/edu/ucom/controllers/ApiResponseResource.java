@@ -13,11 +13,11 @@ import jakarta.ws.rs.PathParam;
 import jakarta.ws.rs.Produces;
 import jakarta.ws.rs.core.MediaType;
 import jakarta.ws.rs.core.Response;
-import main.java.py.edu.ucom.entities.HolaMundo;
-import main.java.py.edu.ucom.entities.apiresponse.Gastos;
-import main.java.py.edu.ucom.services.api.GenericDaoServiceWithJason;
+import py.edu.ucom.entities.HolaMundo;
+import py.edu.ucom.entities.apiresponse.Gastos;
 import py.edu.ucom.model.response.ApiResponse;
 import py.edu.ucom.services.api.ApiResponseService;
+import py.edu.ucom.services.api.GenericDaoServiceWithJason;
 
 @Path("/api-example")
 public class ApiResponseResource {

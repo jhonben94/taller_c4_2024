@@ -1,4 +1,4 @@
-package main.java.py.edu.ucom.repository;
+package py.edu.ucom.repository;
 
 import java.io.File;
 import java.io.IOException;
@@ -11,7 +11,7 @@ import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import jakarta.enterprise.context.ApplicationScoped;
-import main.java.py.edu.ucom.entities.apiresponse.Gastos;
+import py.edu.ucom.entities.apiresponse.Gastos;
 
 @ApplicationScoped
 public class ApiResponseRepository {

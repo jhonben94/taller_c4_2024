@@ -1,4 +1,4 @@
-package main.java.py.edu.ucom.entities.apiresponse;
+package py.edu.ucom.entities.apiresponse;
 
 import java.util.Date;
 
