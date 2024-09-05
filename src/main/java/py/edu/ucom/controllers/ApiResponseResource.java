@@ -68,8 +68,7 @@ public class ApiResponseResource {
             respuesta.setMessage("Primer mensaje");
             respuesta.setData(id);
         } catch (Exception e) {
-            // TODO: handle exception
-
+          
             respuesta.setCode(Response.Status.CONFLICT.getStatusCode());
             respuesta.setMessage("Primer error");
             respuesta.setData(id);
